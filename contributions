@@ -1,0 +1,162 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Samuel Martínez Roque",
+  "alternateName": "Samuel Eduardo Martinez Roque",
+  "jobTitle": "Gerontologist, Urban Scientist, Data Analyst",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Independent Researcher",
+    "url": "https://www.samuelmartinezroque.com/"
+  },
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Universidad Autónoma de Ciudad Juárez"
+    }
+  ],
+  "url": "https://www.samuelmartinezroque.com/",
+  "sameAs": [
+    "https://www.linkedin.com/in/samuelmartinezroque/",
+    "https://www.webofscience.com/wos/author/record/MGA-9768-2025",
+    "https://scholar.google.com/citations?user=pUSmNvoAAAAJ",
+    "https://orcid.org/0009-0000-5470-8790",
+    "https://loop.frontiersin.org/people/2990112",
+    "https://independent.academia.edu/SamuelMartinezRoque"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Ciudad Juárez",
+    "addressRegion": "Chihuahua",
+    "addressCountry": "MX"
+  },
+  "nationality": "Mexican",
+  "gender": "Male",
+  "description": "Samuel Martínez Roque is a multidisciplinary researcher whose work focuses on the intersection of aging, healthcare access, urban planning, and spatial analysis. He uses GIS, statistical tools, and public health models to study disparities in elder care and urban development, especially in underserved and border communities like Ciudad Juárez, Mexico.",
+  "email": "samuelmartinezroque@gmail.com",
+  "honorificSuffix": "MSc",
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's Degree",
+      "educationalLevel": "MSc",
+      "name": "Urban Planning and Development",
+      "awardedBy": {
+        "@type": "CollegeOrUniversity",
+        "name": "Universidad Autónoma de Ciudad Juárez"
+      },
+      "dateAwarded": "2019"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's Degree",
+      "educationalLevel": "BSc",
+      "name": "Gerontology",
+      "awardedBy": {
+        "@type": "CollegeOrUniversity",
+        "name": "Universidad Autónoma de Ciudad Juárez"
+      },
+      "dateAwarded": "2017"
+    }
+  ],
+  "award": [
+    "2019 Honorable Mention for Scientific Research, Universidad Autónoma de Ciudad Juárez",
+    "2017 Academic Excellence, Gobierno del Estado de Chihuahua",
+    "2017 First Class Honors, Universidad Autónoma de Ciudad Juárez",
+    "2017 Outstanding Student of the Year, Universidad Autónoma de Ciudad Juárez",
+    "2016 Outstanding Student of the Year, Universidad Autónoma de Ciudad Juárez"
+  ],
+  "hasOccupation": [
+    {
+      "@type": "Occupation",
+      "name": "Geodata Curator",
+      "description": "Develops and analyzes spatial datasets for urban planning projects. Provides GIS mapping services for scientific research."
+    },
+    {
+      "@type": "Occupation",
+      "name": "City Scientist",
+      "description": "Conducted spatial analyses and supported strategic development policy for Ciudad Juárez through IMPLAN."
+    },
+    {
+      "@type": "Occupation",
+      "name": "Technical Consultant",
+      "description": "Supported Plan Juárez 2030 with long-term development analysis using GIS, health, and demographic modeling."
+    }
+  ],
+  "memberOf": [
+    {
+      "@type": "Organization",
+      "name": "Pan American Council on Gerontology"
+    },
+    {
+      "@type": "Organization",
+      "name": "Universidad Autónoma de Ciudad Juárez"
+    }
+  ],
+  "knowsAbout": [
+    "Gerontology",
+    "Spatial Analysis",
+    "Urban Planning",
+    "Public Health",
+    "Data Visualization",
+    "Healthcare Access",
+    "Border Studies"
+  ],
+  "hasPublication": [
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Ansiedad y depresión en cuidadores informales de adultos mayores en Ciudad Juárez",
+      "author": "Samuel Martínez Roque",
+      "datePublished": "2017",
+      "isPartOf": {
+        "@type": "PublicationIssue",
+        "name": "Vol. 52, Esp Con: 50",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Spanish Journal on Geriatrics and Gerontology"
+        }
+      },
+      "publisher": "Sociedad Española de Geriatría y Gerontología",
+      "inLanguage": "es",
+      "url": "https://scholar.google.com/citations?user=pUSmNvoAAAAJ"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Calidad de vida en adultos mayores reclusos en el Centro de Reinserción Social Estatal de Ciudad Juárez",
+      "author": [
+        "Samuel Martínez Roque",
+        "Marco Erives M A"
+      ],
+      "datePublished": "2017",
+      "isPartOf": {
+        "@type": "PublicationIssue",
+        "name": "Vol. 52, Esp Con: 50",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Spanish Journal on Geriatrics and Gerontology"
+        }
+      },
+      "publisher": "Sociedad Española de Geriatría y Gerontología",
+      "inLanguage": "es"
+    }
+  ],
+  "researcher": true,
+  "researchInterest": [
+    "Spatial analysis of frailty and access to emergency medical care",
+    "Mental health of older adults’ caregivers",
+    "Urban disparities in eldercare infrastructure",
+    "Ergonomic evaluation of services for older adults",
+    "Social appropriation in border migration contexts",
+    "Public policy evaluation using GIS and SPSS"
+  ],
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Academic Researcher"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.samuelmartinezroque.com/"
+  }
+}
+</script>
